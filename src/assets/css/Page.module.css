@@ -1,0 +1,25 @@
+
+.section_padding{
+    padding: 100px 0;
+}
+
+.search_width{
+    width: 52%;
+}
+
+.header_style{
+    background-color: #52AB84;
+    padding-bottom: 50px;
+}
+
+.header_style a{
+    color: white;
+}
+
+.header_style a:hover{
+    color: white;
+    opacity: 0.8;
+}
+
+
+
